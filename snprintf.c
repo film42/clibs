@@ -1,3 +1,6 @@
+// FROM: http://stackoverflow.com/a/8712996/1457934
+// YOU MIGHT WANT TO WRAP IT IN `#ifdef _MSC_VER`
+
 #include <stdio.h>
 #include <stdarg.h>
 
